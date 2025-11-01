@@ -1,0 +1,8 @@
+ray[rllib] # Or the latest stable Ray version you prefer
+gym
+numpy
+google-cloud-storage
+psutil
+pandas # For potential data processing in your state features
+pyyaml
+torch --index-url https://download.pytorch.org/whl/cpu # For RLlib with PyTorch framework
